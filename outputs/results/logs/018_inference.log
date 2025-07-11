@@ -1,0 +1,90 @@
+--- Inference Log ---
+Timestamp: 2025-07-10 13:52:28
+Image ID: 018
+Image Path: data/raw\img\018.jpg
+Status: Success
+
+Predicted Labels:
+  Node 0: company
+  Node 1: other
+  Node 2: address
+  Node 3: address
+  Node 4: other
+  Node 5: other
+  Node 6: other
+  Node 7: other
+  Node 8: other
+  Node 9: other
+  Node 10: other
+  Node 11: other
+  Node 12: other
+  Node 13: date
+  Node 14: other
+  Node 15: other
+  Node 16: other
+  Node 17: other
+  Node 18: other
+  Node 19: other
+  Node 20: other
+  Node 21: item
+  Node 22: other
+  Node 23: other
+  Node 24: other
+  Node 25: other
+  Node 26: other
+  Node 27: other
+  Node 28: other
+  Node 29: other
+  Node 30: other
+  Node 31: other
+  Node 32: item
+  Node 33: item
+  Node 34: other
+  Node 35: other
+  Node 36: other
+  Node 37: other
+  Node 38: other
+  Node 39: other
+  Node 40: other
+  Node 41: other
+  Node 42: other
+  Node 43: other
+  Node 44: other
+  Node 45: other
+  Node 46: other
+  Node 47: other
+  Node 48: other
+  Node 49: other
+  Node 50: other
+  Node 51: other
+  Node 52: other
+  Node 53: other
+  Node 54: other
+  Node 55: other
+  Node 56: other
+  Node 57: other
+  Node 58: other
+  Node 59: other
+  Node 60: other
+  Node 61: other
+  Node 62: other
+  Node 63: other
+  Node 64: other
+  Node 65: other
+  Node 66: other
+  Node 67: other
+  Node 68: other
+  Node 69: other
+  Node 70: other
+  Node 71: other
+  Node 72: other
+  Node 73: other
+  Node 74: other
+
+Extracted Information:
+  COMPANY: LIGHTROOM GALLERY SDN BHD
+  ADDRESS: BANDAR BUKIT RAJA  41050 KLANG SELANGOR D.E  MALAYSIA
+  DATE: ['BILL DATE : 20/12/2017']
+  ITEM: [':', 'YE30 BK 7W WW LED TRACK LIGHT', '* RM 33.02 UNI ( 3.96)=RM 66.04']
+
+--- End of Log ---
